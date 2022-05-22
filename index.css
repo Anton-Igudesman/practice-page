@@ -1,0 +1,11 @@
+.my-button {
+    display: flex;
+    margin: 50px;
+}
+.my-col {
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    
+}
